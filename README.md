@@ -3,7 +3,7 @@ normal
 
 You've used LESS and STYLUS and SASS and you're sick of 'em...
 
-...that's where normal comes in!
+...that's where normal comes in!...OR IS IT!?
 
 How to use
 ----------
